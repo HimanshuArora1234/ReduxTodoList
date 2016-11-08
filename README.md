@@ -1,7 +1,7 @@
 # ReduxTodoList
 A react-redux todo list sample application, using react-router for front-end state management.
 
-This sample project contains on **Async action** as well to fetch some fake user data from a restful api endpoint `http://reqres.in/api/users?page=1`.
+This sample project contains one **Async action** as well to fetch some fake user data from a restful api endpoint `http://reqres.in/api/users?page=1`.
 
 ## Run
 
